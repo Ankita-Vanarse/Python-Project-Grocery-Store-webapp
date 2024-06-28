@@ -7,6 +7,10 @@ In this python project, we will build a grocery store management application. It
 
 ### Installation Instructions
 
+Install Flask 
+
+`pip install flask`
+
 Download mysql for windows: https://dev.mysql.com/downloads/installer/
 
 `pip install mysql-connector-python`
